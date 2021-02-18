@@ -1,3 +1,5 @@
+![What is this](Homer.png)
+
 # Simpsons Classifier 
 
 ## Written in FastAI PyTorch
